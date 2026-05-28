@@ -25,6 +25,9 @@
 
 ### Prerequisites
 - Python 3.10 or later
+- macOS Sequoia 15.5 (24F74) and later
+- Windows 10 And Later
+- any modern Linux Kernel
 
 ### Steps
 
@@ -89,10 +92,7 @@ Downloads/
 
 ---
 
-## License
-
-MIT — do whatever you want with it.
-
----
-
 *Built with Python & CustomTkinter*
+
+# Credits
+* Hackintosh_usr
